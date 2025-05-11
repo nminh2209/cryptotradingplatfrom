@@ -1,4 +1,4 @@
-# COS30049 Trading Platform
+# Trading Platform
 
 This project is a comprehensive trading platform integrating a MySQL database, Express.js API, React.js front-end, and Solidity smart contracts. The platform supports real-time trading operations, portfolio management, and secure on-chain transactions via MetaMask.
 
